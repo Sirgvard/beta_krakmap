@@ -1,2 +1,7 @@
 # map.skatekrak.com
-Map for browse Krak database
+
+
+Old version of the website.
+This project was a beta.
+
+More infos coming soon
